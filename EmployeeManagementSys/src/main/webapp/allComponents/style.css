@@ -1,0 +1,25 @@
+.bg-custom{
+	
+	background-color: #283593 !important;
+	
+}
+
+.navbar.nav-item.nav-link{
+	font-size:20px;
+	
+}
+
+
+.navbar-custom.nav-item.nav-link{
+	background: white;
+	color: black;
+	border-radius: 10px;
+	
+}
+
+.btn-light.text-dark.border.btn-outline-primary:hover {
+    color: white !important;
+    background-color: #007bff !important; /* Optional: Change background on hover */
+    border-color: #007bff !important;
+}
+
